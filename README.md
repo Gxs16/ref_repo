@@ -16,6 +16,8 @@
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1904.08189v3.pdf)
 * [(2018.8) CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/abs/1808.01244)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1808.01244.pdf)
+* [(2018.4) YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
+  * [Full test](DeepLearning/ComputerVision/ObjectDetection/1804.02767.pdf)
 * [(2015.6) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497v3)
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/1506.01497v3.pdf)
 * [(2015.4) Fast R-CNN](https://arxiv.org/abs/1504.08083v2)
