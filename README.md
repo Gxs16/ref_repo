@@ -4,6 +4,11 @@
 
 ### Computer Vision
 
+### Literature Review
+
+* [(2021.11) A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091v2)
+  * [Full text](DeepLearning\ComputerVision\LiteratureReview\2111.06091v2.pdf)
+
 #### Object Detection
 
 * [(2019.9) Training-Time-Friendly Network for Real-Time Object Detection](https://arxiv.org/abs/1909.00700)
