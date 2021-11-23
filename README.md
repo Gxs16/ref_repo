@@ -27,6 +27,8 @@
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/1506.01497v3.pdf)
 * [(2015.4) Fast R-CNN](https://arxiv.org/abs/1504.08083v2)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1504.08083v2.pdf)
+* [(2013.11) Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5)
+  * [Full text](DeepLearning\ComputerVision\ObjectDetection\1311.2524v5.pdf)
 
 #### Semantic Segmentation
 
