@@ -9,6 +9,11 @@
 * [(2021.11) A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091v2)
   * [Full text](DeepLearning\ComputerVision\LiteratureReview\2111.06091v2.pdf)
 
+#### Backbone
+
+* [(2015.12) Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+  * [Full text](DeepLearning/ComputerVision/Backbone/1512.03385.pdf)
+
 #### Object Detection
 
 * [(2019.9) Training-Time-Friendly Network for Real-Time Object Detection](https://arxiv.org/abs/1909.00700)
