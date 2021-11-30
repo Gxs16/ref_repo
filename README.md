@@ -26,6 +26,7 @@
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/1804.02767.pdf)
 * [(2016.12) YOLO9000:Better, Faster, Stronger](https://arxiv.org/abs/1612.08242v1)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1612.08242v1.pdf)
+  * [Interpretation](DeepLearning/ComputerVision/ObjectDetection/1612.08242v1.md)
 * [(2015.6)You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640v5)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1506.02640v5.pdf)
   * [Interpretation](DeepLearning/ComputerVision/ObjectDetection/1506.02640v5.md)
