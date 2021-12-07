@@ -9,10 +9,11 @@
 * [(2021.11) A Survey of Visual Transformers](https://arxiv.org/abs/2111.06091v2)
   * [Full text](DeepLearning\ComputerVision\LiteratureReview\2111.06091v2.pdf)
 
-#### FeatureExtractor
+#### Feature Extractor
 
 * [(2016.12) Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144v2)
   * [Full text](DeepLearning\ComputerVision\FeatureExtractor\1612.03144v2.pdf)
+  * [Notes](DeepLearning\ComputerVision\FeatureExtractor\1612.03144v2.md)
 * [(2015.12) Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
   * [Full text](DeepLearning/ComputerVision/FeatureExtractor/1512.03385.pdf)
 
@@ -44,19 +45,19 @@
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/2004.10934v1.pdf)
 * [(2018.4) YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/1804.02767.pdf)
-  * [Interpretation](DeepLearning\ComputerVision\ObjectDetection\1804.02767.md)
+  * [Notes](DeepLearning\ComputerVision\ObjectDetection\1804.02767.md)
 * [(2016.12) YOLO9000:Better, Faster, Stronger](https://arxiv.org/abs/1612.08242v1)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1612.08242v1.pdf)
-  * [Interpretation](DeepLearning/ComputerVision/ObjectDetection/1612.08242v1.md)
+  * [Notes](DeepLearning/ComputerVision/ObjectDetection/1612.08242v1.md)
 * [(2015.6)You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640v5)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1506.02640v5.pdf)
-  * [Interpretation](DeepLearning/ComputerVision/ObjectDetection/1506.02640v5.md)
+  * [Notes](DeepLearning/ComputerVision/ObjectDetection/1506.02640v5.md)
 
 ###### Two-stage
 
 * [(2015.6) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497v3)
   * [Full text](DeepLearning/ComputerVision/ObjectDetection/1506.01497v3.pdf)
-  * [Interpretation](DeepLearning/ComputerVision/ObjectDetection/1506.01497v3.md)
+  * [Notes](DeepLearning/ComputerVision/ObjectDetection/1506.01497v3.md)
 * [(2015.4) Fast R-CNN](https://arxiv.org/abs/1504.08083v2)
   * [Full text](DeepLearning\ComputerVision\ObjectDetection\1504.08083v2.pdf)
 * [(2013.11) Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5)
@@ -71,4 +72,4 @@
 
 * [(2017.3) Mask R-CNN](https://arxiv.org/abs/1703.06870)
   * [Full text](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.pdf)
-  * [Interpretation](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.md)
+  * [Notes](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.md)
