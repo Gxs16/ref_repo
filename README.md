@@ -73,3 +73,10 @@
 * [(2017.3) Mask R-CNN](https://arxiv.org/abs/1703.06870)
   * [Full text](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.pdf)
   * [Notes](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.md)
+
+### Natural Language Processing
+
+#### Machine Translation
+
+* [(2017.06) Attention is All You Need](https://arxiv.org/abs/1706.03762v5)
+  * [Full Text](DeepLearning/NaturalLanguageProcessing/MachineTranslation/1706.03762v5.pdf)
