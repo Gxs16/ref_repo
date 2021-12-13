@@ -11,6 +11,17 @@
 
 #### Feature Extractor
 
+* [(2019.05) Searching for MobileNetV3](https://arxiv.org/abs/1905.02244v5)
+  * [Full text](DeepLearning/ComputerVision/FeatureExtractor/1905.02244v5.pdf)
+  * [Notes](DeepLearning/ComputerVision/FeatureExtractor/1905.02244v5.md)
+* [(2018.01) MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381v4)
+  * [Full text](DeepLearning/ComputerVision/FeatureExtractor/1801.04381v4.pdf)
+  * [Notes](DeepLearning/ComputerVision/FeatureExtractor/1801.04381v4.md)
+* [(2017.09) Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507v4)
+  * [Full text](DeepLearning/ComputerVision/FeatureExtractor/1709.01507v4.pdf)
+* [(2017.04) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+  * [Full text](DeepLearning\ComputerVision\FeatureExtractor\1704.04861.pdf)
+  * [Notes](DeepLearning/ComputerVision/FeatureExtractor/1704.04861.md)
 * [(2016.12) Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144v2)
   * [Full text](DeepLearning\ComputerVision\FeatureExtractor\1612.03144v2.pdf)
   * [Notes](DeepLearning\ComputerVision\FeatureExtractor\1612.03144v2.md)
