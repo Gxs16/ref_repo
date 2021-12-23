@@ -91,3 +91,12 @@
 
 * [(2017.06) Attention is All You Need](https://arxiv.org/abs/1706.03762v5)
   * [Full Text](DeepLearning/NaturalLanguageProcessing/MachineTranslation/1706.03762v5.pdf)
+
+### Clustering
+
+#### Survey
+
+* [(2018.07) A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/abstract/document/8412085)
+  * [Full Text](DeepLearning/Clustering/Survey/A_Survey_of_Clustering_With_Deep_Learning_From_the_Perspective_of_Network_Architecture.pdf)
+* [(2018.01) Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/abs/1801.07648v2)
+  * [Full Text](DeepLearning/Clustering/Survey/1801.07648.pdf)
