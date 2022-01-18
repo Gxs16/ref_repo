@@ -85,6 +85,11 @@
   * [Full text](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.pdf)
   * [Notes](DeepLearning\ComputerVision\InstanceSegmentation\1703.06870v3.md)
 
+#### Vision Transformer
+
+* [(2020.10) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929v2)
+  * [Full Text](DeepLearning/ComputerVision/VisionTransformer/2010.11929v2.pdf)
+
 ### Natural Language Processing
 
 #### Machine Translation
